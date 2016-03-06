@@ -6,6 +6,7 @@
 
 double Resistor::defR = 15000;          //defR statikus tag, ami azt jelenti, hogy nem példányosodik.
                                         //egyetlen egy példány van belőle, amit explicit módon létre kell hozni
+                                        //kell a Resistor:: hogy tudjuk, hogy ennek a statikus tagjáról van szó
 
 /// Kontstruktor.
 /// Alapértelmezett értéket (defR) kap
