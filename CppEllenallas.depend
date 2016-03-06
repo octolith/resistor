@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1457258727 source:c:\users\marce\onedrive\documents\codeblocks\resistor\resistor.cpp
+	"resistor.h"
+
+1457255619 c:\users\marce\onedrive\documents\codeblocks\resistor\resistor.h
+
+1457255623 source:c:\users\marce\onedrive\documents\codeblocks\resistor\resistor_test.cpp
+	<iostream>
+	"resistor.h"
+
